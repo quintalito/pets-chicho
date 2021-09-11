@@ -1,2 +1,2 @@
 # pets-chicho
-Este es un historial de perros en mi casa.
+Este es un historial de mascotas en mi casa, guardado en un repositorio de mascotas.
